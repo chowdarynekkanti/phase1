@@ -1,0 +1,44 @@
+{
+  "basic":{
+    "image":"photo.jpg",
+    "name":"meghna",
+  "email": "tanguturimeghana@gmail.com",
+  "number":"+91-999999999",
+  "address": "pragati engineering college"
+},
+"CAREER":{
+  "info":"to be a software engineer"
+},
+"education":[
+  {
+    "institute":"pragati engineering college",
+    "Degree":"b.tech",
+    "passout":"2020"
+},
+{
+"institute":"sri chaitanya junior college",
+"Degree":"intermediate",
+"passout":"2016"
+},
+{
+"institute":"narayana concept school",
+"Degree":"ssc",
+"passout":"2014"
+}
+]
+{
+  "technical skills":
+  {
+    "info":"programming languages",
+    "data":["c,c++,java,javascript"]
+  }
+  {
+    "info":"operating systems",
+    "data":["linux,unix,windows"]
+  }
+  {
+    "info":"databases",
+    "data":["oracle","mysql"]
+  }
+]
+}
